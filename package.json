@@ -1,0 +1,14 @@
+{
+  "name": "json",
+  "description": "fake server with fake database",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Marcelo Souto",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
